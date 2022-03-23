@@ -1,0 +1,5 @@
+rootProject.name = 'multiModuleGradle2'
+include 'db'
+include 'service'
+include 'api'
+
